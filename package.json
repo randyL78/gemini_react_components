@@ -1,0 +1,32 @@
+{
+  "name": "gemini_react_library",
+  "version": "1.0.0",
+  "description": "A styled react component library for Gemini One software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randyL78/gemini_react_components.git"
+  },
+  "keywords": [
+    "React",
+    "Gemini",
+    "One",
+    "styled",
+    "components",
+    "components",
+    "library"
+  ],
+  "author": "Randy Layne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/randyL78/gemini_react_components/issues"
+  },
+  "homepage": "https://github.com/randyL78/gemini_react_components#readme",
+  "dependencies": {
+    "react": "^16.7.0",
+    "styled-components": "^4.1.3"
+  }
+}
